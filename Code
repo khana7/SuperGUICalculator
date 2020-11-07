@@ -160,4 +160,4 @@ class CalBox extends JPanel {
     private double user_input;
     private String user_operation;
     private JButton solution;
-}
+} 
